@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.rectangulo1 {
+    background-color: rgb(238, 82, 82);
+    margin-top: 10vh;
+    margin-bottom: 75vh;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    height: 8vh;
+    width: 30vw;
+}
+
+.cuadrado1 {
+    background-color: black;
+    margin-top: 10vh;
+    margin-bottom: 75vh;
+    margin-left: 30vw;
+    margin-right: 25vw ;
+    height: 8vh;
+    width: 4vw;
+   }
+
+.rectangulo2 {
+    background-color: white;
+    margin-top: 10vh;
+    margin-bottom: 70vh ;
+    margin-left: 30vw;
+    margin-right: 25vw;
+    height: 5vh;
+    width: 25vw ;
+
+}
