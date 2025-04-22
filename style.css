@@ -4,9 +4,12 @@
 }
 
 .rectangulo1 {
+    display: flex;
     background-color: rgb(238, 82, 82);
     height: 8vh;
     width: 30vw;
+    justify-content: center;
+    align-items: center;
 }
 
 .cuadrado1 {
@@ -16,11 +19,18 @@
    }
 
 .rectangulo2{
-    background-color: blue;
-    height: 5vh;
-    width: 3vw;
+    background-color: white;
+    height: 2vh;
+    width: 25vw;
+    justify-content: center;
+    align-items: center; 
 }
 
 .contenedor{
     display: flex;
+    width: 100vw;
+    height: 20vh;
+    justify-content: center;
+    align-items: center;
 }
+
