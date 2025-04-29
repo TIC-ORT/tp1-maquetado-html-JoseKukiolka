@@ -38,8 +38,8 @@
 display: flex;
 width: 100vw;
 height: 2vh;
-justify-content: center;
 align-items: center;
+justify-content: space-evenly;
 }
 
 .rectangulogris1{
@@ -50,7 +50,6 @@ height: 2vh;
 justify-content: center;
 align-items: center;
 background-color:grey;
-margin-left: 7vw;
 }
 
 .rectangulogris2{
@@ -60,18 +59,28 @@ height: 2vh;
 justify-content: center;
 align-items:center;
 background-color:grey;
-margin-left: 30vw;
+justify-content: space-evenly;
 }
 
 .rectangulogris3{
 
-display: flex;
 display: flex;
 width: 15vw;
 height: 2vh;
 justify-content: center;
 align-items:center;
 background-color:grey;
-margin-left: 55vw;
 }
 
+.rectangulogris4{
+display: flex;
+width: 15vw;
+height: 2vh;
+justify-content: center;
+align-items:center;
+background-color:grey;
+}
+
+.contenedorceleste{
+    
+}
