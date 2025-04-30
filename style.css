@@ -40,6 +40,8 @@ width: 100vw;
 height: 2vh;
 align-items: center;
 justify-content: space-evenly;
+margin-bottom: 7vh;
+margin-top: 3vh;
 }
 
 .rectangulogris1{
@@ -82,5 +84,10 @@ background-color:grey;
 }
 
 .contenedorceleste{
-    
+    display: flex;
+    flex-direction: column; 
+    width: 100vw;
+    height: 40vh;
+    align-items: center;
+    background-color: lightblue;
 }
