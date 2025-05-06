@@ -99,8 +99,7 @@ background-color:grey;
     justify-content: center;
     align-items: center;
     background-color: rgb(74, 172, 238);
-    margin-right: 70vw;
-    margin-top: 7.8vh;
+ 
 }
 
 .cuadradochico1{
@@ -109,7 +108,5 @@ background-color:grey;
     height: 2vw;
     justify-content: center;
     align-items: center;
-    background-color: rgb(0, 0, 0);
-    margin-right: 63vw;
-    margin-top: 9vh;
+    background-color: white;
 }
